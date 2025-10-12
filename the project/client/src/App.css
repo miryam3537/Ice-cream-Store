@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* body{
+  background-image: 4 - Copy (2);
+} */
+
+.shakuf {
+  background-color: rgba(240, 248, 255, 0.147);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ground {
+  width: 50%;
+}
+
+.reka {
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+}
+
+.br {
+  background-color: red;
+}
+
+.cr {
+  color: red;
+  font-size: 4rem;
+}
+
+.ch {
+  background-color: rgb(235, 237, 102);
+  color: #f21414;
+}
+
+.hc {
+  background-color: #f55a62;
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p-menubar {
+  background-color: #f55a62;
+
+}
+.title {
+  font-size: 6rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  position: absolute;
+  left: 30%;
+}
+
+.zuz {
+  margin-left: 75%;
+  background-color: rgb(239, 228, 103);
+}
+
+.zuzt {
+  background-color: rgb(239, 228, 103);
+}
+
+.zuztt {
+  margin-top: 4px;
+}
+
+.big {
+  width: 70px;
+  height: 70px;
+  background-color: rgb(239, 228, 103);
+  margin-left: 95%;
+}
+
+.red {
+  background-color: #f55a62;
+}
+
+.nav-link {
+  color: black;
+
+  text-decoration: none;
+}
+
+
+.nav-link:hover {
+
+  text-decoration: underline;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
