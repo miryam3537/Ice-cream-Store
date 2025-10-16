@@ -1,1 +1,2 @@
-# Ice-cream-Store
+
+פרוייקט קטן בתהליך פיתוח# Ice-cream-Store
